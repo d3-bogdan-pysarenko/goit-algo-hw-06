@@ -1,5 +1,8 @@
 # goit-algo-hw-06
 Homework 6
+<img width="1536" height="754" alt="Figure_1" src="https://github.com/user-attachments/assets/9b3400eb-862e-43cc-bbbb-0d88adc31a60" />
+
+
 
 ## Висновок:
 
